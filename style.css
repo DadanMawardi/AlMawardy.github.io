@@ -2,6 +2,14 @@
   padding-top: 6rem;
   background-color: hsl(107, 100%, 96%);
 }
+
+.jumbotron {
+  background-image: url('Img/Studio.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0;
+}
+
 #galery {
   background-color: hsl(107, 100%, 96%);
 }
